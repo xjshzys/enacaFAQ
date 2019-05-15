@@ -8,7 +8,10 @@
 
 ----
 ## 接下来开始正式总结大家遇到的常见问题
-____
+----
++ **Q: 课程/作业在哪里？**
++ A: www.enaca.cn登陆官网之后，在*我的活动*里可以看到每天的课程回放和作业
+----
 + **Q: Anaconda下载太慢了怎么办？**
 + A: Win版点[这里](https://pan.baidu.com/s/1fAi2lc1EzGEtMdSzhMOp1w)就可以下载啦(提取码：NX49)  
 Mac版点[这里](https://pan.baidu.com/s/1HAxGfLNicT3Bu3swfBkzxQ)下载(提取码：7te3)  
